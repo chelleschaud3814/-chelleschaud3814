@@ -5,7 +5,7 @@ I turn imaginative ideas into interactive experiences.
 
 My work combines generative AI, visual storytelling, and creative prototyping—from cinematic exploration to practical tools that help people find their next step. I shape the concept, visual direction, and interaction flow, then use AI development tools to build, test, and refine the experience.
 
-I'm looking for a full-time role where I can bring that mix of creative judgment, curiosity, and hands-on building to a team.
+I'm open to AI opportunities worldwide: remote work with global teams, plus relocation across the United States and internationally. I welcome full-time, part-time, and contract roles where I can bring creative judgment, curiosity, and hands-on building to a team.
 
 [Portfolio](https://chellebuilds.io) · [LinkedIn](https://www.linkedin.com/in/chelleschauder/) · [Email](mailto:chelleschaud@gmail.com)
 
@@ -57,7 +57,9 @@ I use AI as a development collaborator. I explain what the tools contributed, wh
 
 ## Let's talk
 
-I'm interested in full-time opportunities in **creative technology, AI experience design, and generative AI prototyping.**
+I'm interested in AI opportunities across **creative technology, AI experience design, generative AI prototyping, prompt engineering, AI evaluation, and AI operations.**
+
+**Availability:** Remote worldwide · Open to US and international relocation · Full-time, part-time, and contract.
 
 If your team needs someone who can shape an idea, give it a visual identity, and build an interactive prototype, I'd love to hear what you're working on.
 
